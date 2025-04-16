@@ -34,10 +34,6 @@ cd covid-vaccine-analysis-india
 pip install -r requirements.txt
 ```
 
-## 📍 Status
-Project completed as a personal exploration in August 2021. Potential for extension using mobility data, vaccination hesitancy sentiment, or COVID case trends.
-
----
 
 **Author**: Rahul Saxena  
 [LinkedIn](https://linkedin.com/in/raahulsaxena) | [Portfolio](http://raahulsaxena.github.io)
